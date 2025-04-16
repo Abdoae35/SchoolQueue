@@ -12,3 +12,4 @@
 /Users/macbookpro/Desktop/Message Queue/School/School.DAL/obj/Debug/net8.0/School.DAL.pdb
 /Users/macbookpro/Desktop/Message Queue/School/School.DAL/obj/Debug/net8.0/School.DAL.genruntimeconfig.cache
 /Users/macbookpro/Desktop/Message Queue/School/School.DAL/obj/Debug/net8.0/ref/School.DAL.dll
+/Users/macbookpro/Desktop/Message Queue/School/School.DAL/obj/Debug/net8.0/School.DAL.sourcelink.json
