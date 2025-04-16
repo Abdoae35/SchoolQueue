@@ -1,0 +1,14 @@
+/Users/macbookpro/Desktop/Message Queue/School/School.DAL/bin/Debug/net8.0/School.DAL.deps.json
+/Users/macbookpro/Desktop/Message Queue/School/School.DAL/bin/Debug/net8.0/School.DAL.runtimeconfig.json
+/Users/macbookpro/Desktop/Message Queue/School/School.DAL/bin/Debug/net8.0/School.DAL.dll
+/Users/macbookpro/Desktop/Message Queue/School/School.DAL/bin/Debug/net8.0/School.DAL.pdb
+/Users/macbookpro/Desktop/Message Queue/School/School.DAL/obj/Debug/net8.0/School.DAL.csproj.AssemblyReference.cache
+/Users/macbookpro/Desktop/Message Queue/School/School.DAL/obj/Debug/net8.0/School.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/Message Queue/School/School.DAL/obj/Debug/net8.0/School.DAL.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/Message Queue/School/School.DAL/obj/Debug/net8.0/School.DAL.AssemblyInfo.cs
+/Users/macbookpro/Desktop/Message Queue/School/School.DAL/obj/Debug/net8.0/School.DAL.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/Message Queue/School/School.DAL/obj/Debug/net8.0/School.DAL.dll
+/Users/macbookpro/Desktop/Message Queue/School/School.DAL/obj/Debug/net8.0/refint/School.DAL.dll
+/Users/macbookpro/Desktop/Message Queue/School/School.DAL/obj/Debug/net8.0/School.DAL.pdb
+/Users/macbookpro/Desktop/Message Queue/School/School.DAL/obj/Debug/net8.0/School.DAL.genruntimeconfig.cache
+/Users/macbookpro/Desktop/Message Queue/School/School.DAL/obj/Debug/net8.0/ref/School.DAL.dll
